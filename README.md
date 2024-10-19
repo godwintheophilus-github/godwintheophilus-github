@@ -48,7 +48,6 @@ As a **lifelong learner**, I constantly seek to expand my knowledge and skills i
 Feel free to reach out or connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/godwin-theophilus-b6ba6892/)
-- [Twitter](https://twitter.com/yourhandle)
 
 ---
 
