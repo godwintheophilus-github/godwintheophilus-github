@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 
 ---
 
+### 📫 Connect with Me
+Feel free to reach out or connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/godwin-theophilus-b6ba6892/)
+- [Discord](https://discord.gg/PZPxBARjSx)
+---
+
 ### About Me
 I'm a passionate Principal Engineer with a deep expertise in building scalable and resilient systems. With a strong focus on **cloud solutions**, **DevOps**, and **microservices**, I thrive on transforming complex challenges into innovative solutions. 
 
@@ -30,7 +37,7 @@ As a **lifelong learner**, I constantly seek to expand my knowledge and skills i
 
 ### 🚀 What I Do
 - **System Architecture**: Design and implement scalable architectures for cloud-based applications.
-- **AWS Expertise**: Build and optimize cloud solutions using AWS services to ensure high availability and performance.
+- **AWS**: Build and optimize cloud solutions using AWS services to ensure high availability and performance.
 - **DevOps Practices**: Automate CI/CD pipelines and promote a culture of continuous integration and delivery.
 - **Microservices Design**: Architect microservices for enhanced scalability and maintainability.
 - **Database Management**: Optimize relational and NoSQL databases for performance and reliability.
@@ -42,12 +49,6 @@ As a **lifelong learner**, I constantly seek to expand my knowledge and skills i
 - **Cloud Platforms**: AWS,
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible
 - **Databases**: PostgreSQL, Oracle, Cassandra
-
-
-### 📫 Connect with Me
-Feel free to reach out or connect with me on:
-
-- [LinkedIn](https://www.linkedin.com/in/godwin-theophilus-b6ba6892/)
 
 ---
 
